@@ -1,4 +1,4 @@
-package Team_Eliza.tictactoe;
+package team_eliza.tictactoe;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("Team_Eliza.tictactoe", appContext.getPackageName());
+        assertEquals("team_eliza.tictactoe", appContext.getPackageName());
     }
 }

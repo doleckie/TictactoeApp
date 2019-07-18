@@ -1,4 +1,4 @@
-package Team_Eliza.tictactoe;
+package team_eliza.tictactoe;
 
 import org.junit.Test;
 
